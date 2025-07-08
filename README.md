@@ -27,12 +27,12 @@ This project aims to detect fraudulent transactions in a credit card dataset usi
 
 ## Workflow
 
-1. Load and preprocess the dataset
-2. Scale features (`StandardScaler`)
-3. Handle class imbalance using undersampling
-4. Train models (3 supervised + 2 unsupervised)
-5. Evaluate each model using precision, recall, F1, ROC-AUC, and PR-AUC
-6. Visualize performance comparison of all models
+1. Loaded and preprocessed the dataset
+2. Scaled features (`StandardScaler`)
+3. Handled class imbalance using undersampling
+4. Trained models (3 supervised + 2 unsupervised)
+5. Evaluated each model using precision, recall, F1, ROC-AUC, and PR-AUC
+6. Visualized performance comparison of all models
 
 ---
 
